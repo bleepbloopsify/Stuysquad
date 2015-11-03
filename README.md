@@ -17,8 +17,9 @@
 |           | Bermet K     |           |
 |           |  Alice Chai  |           |
 |           |  Jace        |           |
-|:---------:|:------------:|:---------:|
+|---|---|---|
 |    **B**  |              |    Wilson |
+ ---|---|---|
 |           |  Carol Chin  |           |
 |           |  Andy Lin    |           |
 |           |  Ayman Ahmed |           |

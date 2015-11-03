@@ -1,7 +1,9 @@
-Panda Eyes - Love Game
-Han Solo Hiding ft Nicholas
-Sneo - Contact
-Savant - Spacewolfe
+##Songs
+
+1. Panda Eyes - Love Game
+2. Han Solo Hiding ft Nicholas
+3. Favright - Levitate
+4. Savant - Spacewolfe
 
 
 

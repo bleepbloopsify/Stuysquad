@@ -17,7 +17,7 @@
 |           | Bermet K     |           |
 |           |  Alice Chai  |           |
 |           |  Jace        |           |
-|---|---|---|
+
 |    **B**  |              |    Wilson |
  ---|---|---|
 |           |  Carol Chin  |           |
